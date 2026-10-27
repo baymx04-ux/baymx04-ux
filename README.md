@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 Hey, I'm Junaid<br><br>🔭 I'm currently working on MERN and Next.js projects<br>👯 I'm looking to collaborate on open source projects and AI-powered web apps<br>🤝 I'm looking for help with scaling backend architecture and optimizing LLM/RAG pipelines<br>🌱 I'm currently learning system design and applied AI engineering<br>💬 Ask me about the MERN stack, Next.js, Tailwind CSS, and building full-stack products from scratch<br>⚡ Fun fact: I turn coffee into code, and bugs into "features" until they turn into lessons
+Hi, I'm Junaid, a full-stack developer specializing in the MERN stack and Next.js. I enjoy building full-stack products from scratch, from database design to polished user interfaces.
+
+**Currently working on**
+- MERN and Next.js projects
+- AI-powered web applications
+
+**Currently learning**
+- System design
+- Applied AI engineering
+
+**Open to collaborating on**
+- Open source projects
+- AI-powered web apps
+
+**Looking for guidance on**
+- Scaling backend architecture
+- Optimizing LLM and RAG pipelines
+
+**Ask me about**: the MERN stack, Next.js, Tailwind CSS, and building full-stack products end to end.
+
+Fun fact: I turn coffee into code, and bugs into lessons.
 
 
 ## 🌐 Socials:

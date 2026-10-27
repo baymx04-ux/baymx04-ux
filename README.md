@@ -1,26 +1,5 @@
 # 💫 About Me:
-Hi, I'm Junaid, a full-stack developer specializing in the MERN stack and Next.js. I enjoy building full-stack products from scratch, from database design to polished user interfaces.
-
-**Currently working on**
-- MERN and Next.js projects
-- AI-powered web applications
-
-**Currently learning**
-- System design
-- Applied AI engineering
-
-**Open to collaborating on**
-- Open source projects
-- AI-powered web apps
-
-**Looking for guidance on**
-- Scaling backend architecture
-- Optimizing LLM and RAG pipelines
-
-**Ask me about**: the MERN stack, Next.js, Tailwind CSS, and building full-stack products end to end.
-
-Fun fact: I turn coffee into code, and bugs into lessons.
-
+Hi, I'm Junaid, a full-stack developer.<br><br>🔭 Currently working on MERN and Next.js projects<br>🤝 Open to collaborating on open source and AI-powered web apps<br>🌱 Currently learning system design and applied AI engineering<br>💬 Ask me about the MERN stack, Next.js, Tailwind CSS, and building full-stack products from scratch<br>⚡ Fun fact: I turn coffee into code, and bugs into lessons
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/junaid-kanwar-0725b6315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidkanwar04@gmail.com) 
